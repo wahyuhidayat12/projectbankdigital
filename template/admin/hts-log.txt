@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Oct 2023 09:53:36 at https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/ -O1 "C:\Users\admin\Downloads\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:58:21	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/flags/1x1/sv.svg (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/css/flag-icon.min.css)
+09:58:21	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/flags/4x3/tc.svg (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/css/flag-icon.min.css)
+09:58:31	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/flags/4x3/vc.svg (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/css/flag-icon.min.css)
+09:58:32	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/flags/4x3/xk.svg (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/flag-icon-css/css/flag-icon.min.css)
+09:58:32	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/fonts/Rubik/Rubik-Regular.ttf (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/css/style.css)
+09:58:32	Warning: 	Retry after error -4 (Connect Error) at link https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/assets/vendors/select2/select2.min.css (from https://themewagon.github.io/corona-free-dark-bootstrap-admin-template/pages/forms/basic_elements.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 57 seconds : 598 links scanned, 591 files written (13434835 bytes overall) [7096666 bytes received at 23894 bytes/sec], 9751752 bytes transferred using HTTP compression in 524 files, ratio 30%, 39.4 requests per connection
+(No errors, 6 warnings, 0 messages)
